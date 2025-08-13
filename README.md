@@ -1,1 +1,1 @@
-# SOHO-Network-Setup-with-Secure-Wired-and-Wireless-Integration
+I designed and implemented both Enterprise and SOHO networks, combining wired and wireless connectivity for smooth communication across all devices. The setup included VLANs, Inter-VLAN Routing (Router-on-a-Stick), and DHCP to segment the network and automatically manage IP addresses. I also configured WLAN with Access Points, created custom SSIDs, and applied strong security measures to ensure safe and reliable wireless access.
