@@ -1,4 +1,5 @@
 💻 Project: Enterprise & SOHO Network Design and Implementation
+
 🎯 1. Objective
 The goal of the project was to design and configure a functional, secure, and scalable network suitable for both 🏢 Enterprise and 🏠 Small Office/Home Office (SOHO) environments. The network needed to support 📡 wired and wireless devices, ensure smooth communication between departments, and provide centralized management with strong security 🔒.
 
