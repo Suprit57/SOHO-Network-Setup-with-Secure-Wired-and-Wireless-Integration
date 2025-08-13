@@ -11,7 +11,7 @@ The goal of the project was to design and configure a **functional, secure, and 
 * **🔀 Segmentation**: Divided the network into **VLANs** to separate different departments (e.g., Admin, IT, Guests, Wireless Clients).
 * **🌐 Routing**: Implemented **Inter-VLAN Routing** using the **Router-on-a-Stick** method — one physical router interface with multiple subinterfaces, each tagged with a VLAN ID.
 
----
+
 
 **⚙️ 3. Key Configurations**
 
@@ -42,7 +42,7 @@ The goal of the project was to design and configure a **functional, secure, and 
 * **Port Security**: Restricted switch ports to specific MAC addresses 🛑 to block unauthorized devices.
 * **Password Encryption**: Encrypted all stored passwords for device security 🗝️.
 
----
+
 
 **🧪 4. Testing & Verification**
 
@@ -52,7 +52,7 @@ The goal of the project was to design and configure a **functional, secure, and 
 * Tested **remote login** via SSH to confirm secure management access 📲.
 * Verified that **port security** blocked unapproved devices 🚷.
 
----
+
 
 **🏆 5. Outcome**
 
@@ -62,6 +62,6 @@ The goal of the project was to design and configure a **functional, secure, and 
 * **Remote management** capability via SSH and enhanced device security using port security 🛡️.
 * The network design can be deployed in **hotels 🏨, offices 🏢, or small business setups 🏠** with minimal changes.
 
----
+
 This project delivered a secure and well-structured network supporting both wired and wireless environments. It included **VLAN segmentation** with **Inter-VLAN routing** and **DHCP** for automated IP management, ensuring organized traffic flow and easy device configuration. **Access Points** were configured with VLAN-based SSIDs and **WPA2 security** to provide safe and reliable wireless access. Additionally, **SSH** and **Port Security** were implemented to enable secure remote management and prevent unauthorized device connections.
 
