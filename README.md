@@ -63,5 +63,5 @@ The goal of the project was to design and configure a **functional, secure, and 
 * The network design can be deployed in **hotels 🏨, offices 🏢, or small business setups 🏠** with minimal changes.
 
 ---
+This project delivered a secure and well-structured network supporting both wired and wireless environments. It included **VLAN segmentation** with **Inter-VLAN routing** and **DHCP** for automated IP management, ensuring organized traffic flow and easy device configuration. **Access Points** were configured with VLAN-based SSIDs and **WPA2 security** to provide safe and reliable wireless access. Additionally, **SSH** and **Port Security** were implemented to enable secure remote management and prevent unauthorized device connections.
 
-I can also make you a **beautiful visual diagram** with VLAN IDs, IP ranges, and device connections, so it looks perfect for a portfolio or interview presentation. That would make this project explanation stand out even more.
